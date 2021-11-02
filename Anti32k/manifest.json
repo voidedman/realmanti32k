@@ -1,0 +1,29 @@
+{
+	"format_version": 1,
+	"header": {
+		"name": "§¶§c⋰       Hydra Studio Anti32k  1.0.1 Official    ⋱",
+		"description": "§¶§c⋮ Made By Hyy Studios ",
+		"uuid": "2b8db254-cd98-4542-a67c-af2494ac9j8f",
+		"version": [
+			1,
+			0,
+			8
+		],
+		"min_engine_version": [
+			1,
+			8,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "3834064e-c7d3-4b02-aff7-d73b9f16ef57",
+			"version": [
+				1,
+				1,
+				7
+			]
+		}
+	]
+}
